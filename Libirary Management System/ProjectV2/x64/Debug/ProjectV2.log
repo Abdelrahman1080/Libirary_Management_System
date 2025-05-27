@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+F:\Level-2\DATA BASE\ProjectV2\ProjectV2\MyForm.cpp(4,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProjectV2.vcxproj -> F:\Level-2\DATA BASE\ProjectV2\x64\Debug\ProjectV2.exe
